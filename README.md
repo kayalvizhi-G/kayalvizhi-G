@@ -19,7 +19,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 
 ## Development Phase 2
 ### Testing and Evaluation (Phase 4)
-- [Model Testing and Evaluation(AI_Phase4.docx)}(https://github.com/kanchanasankar/fake-news-using-NLP/blob/main/AI_phase4_KANCHANA.pdf)
+- [Model Testing and Evaluation(AI_Phase4.docx)}([(https://github.com/kayalvizhi-G/kayalvizhi-G/blob/main/AI_phase4_KAYAL_VIZHI.pdf)])
 
 ## Final Submission 
 ### Documentation (Phase 5)
