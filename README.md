@@ -19,7 +19,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 
 ## Development Phase 2
 ### Testing and Evaluation (Phase 4)
-- [Model Testing and Evaluation(AI_Phase4.docx)}([(https://github.com/kayalvizhi-G/kayalvizhi-G/blob/main/AI_phase4_KAYAL_VIZHI.pdf)])
+- [Model Testing and Evaluation(AI_Phase4.docx)](https://github.com/kayalvizhi-G/kayalvizhi-G/blob/main/AI_phase4_KAYAL_VIZHI.pdf)
 
 ## Final Submission 
 ### Documentation (Phase 5)
@@ -31,7 +31,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
   ##Description
   This project includes data preprocessing steps,feature extraction techiques and also the documentation(AI -PHASE 1.pdf) explains about the algorithm used ,which includes the importany step in our project of model tarining and evaluatio steps
 
-   ##gitclone:
+   ##gitclone:https://github.com/kayalvizhi-G/kayalvizhi-G.git
 
 
 
