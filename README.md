@@ -11,7 +11,7 @@ We used a real-world dataset provided for our project by IBM named "MY CHATBOT" 
 ## Design Thinking (Phase 1)
 [Design Thinking Document (AI_Phase1.pdf)](https://github.com/kayalvizhi-G/kayalvizhi-G/blob/main/phase%201.pdf)
 ##  (Phase 2)
-- [Innovation Document(AI_Phase2.pdf)](AI_Phase2.pdf)
+- [Innovation Document(AI_Phase2.pdf)](https://github.com/kayalvizhi-G/kayalvizhi-G/blob/main/AI_Phase2.pdf)
 
 ## Development Phase 1 
 ### Model Building (Phase 3)
