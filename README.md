@@ -4,9 +4,9 @@ dataset:https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-datas
 
 ## Introduction
 
-This project aims to predict chatbot  using python. The project is divided into several phases, each addressing a different aspect of the AI development process.
+This project aims to predict FAKE NEWS DETECTION USING NLP. The project is divided into several phases, each addressing a different aspect of the AI development process.
 
-We used a real-world dataset provided for our project by IBM named "MY CHATBOT" for our analysis of response .
+We used a real-world dataset provided for our project by IBM named "FAKE NEWS DETECTION USING NLP" for our analysis of response .
 
 ## Design Thinking (Phase 1)
 [Design Thinking Document (AI_Phase1.pdf)](https://github.com/kayalvizhi-G/kayalvizhi-G/blob/main/phase%201.pdf)
